@@ -1,0 +1,130 @@
+body {
+	background-color: #F2FFFC;
+	font-family: "Crimson Text", serif;
+	font-size: 20px;
+	line-height: 1.5;
+}
+
+main{
+	width: 85%;
+	float: left;
+}
+.container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px 0;
+}
+
+main h1{
+	font-size: 60px;
+	background-color: #3C1D3D;
+	color: #F2FFFC;
+	text-align: center;
+	font-family: "Open Sans Condensed", sans-serif;
+	padding: 25px;
+	margin: 0px;
+	border-bottom: 10px solid #000000;
+	text-transform: uppercase;
+}
+
+main a{
+	color: #851944;
+}
+
+h2{
+	font-size: 40px;
+	font-family: "Open Sans Condensed", sans-serif;
+	clear: both;
+}
+
+p{
+	text-align: justify;
+	margin: 30px 0;
+
+}
+
+.citacao{
+    background-color: #D9E5E3;
+    border: 10px solid #C2CCCA;
+    padding: 20px;
+    margin: 20px 40px;
+    width: 400px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+strong {
+    font-weight: bold;
+}
+em {
+    font-style: italic;
+}
+
+aside{
+	background-color: #3C1D3D;
+	color: #F2FFFC;
+	text-align: center;
+	padding: 20px;
+	font-family: "Open Sans Condensed", sans-serif;
+}
+
+nav h1{
+	font-size: 30px;
+	margin-bottom: 25px;
+}
+
+nav a{
+	color: inherit;
+    text-transform: lowercase;
+}
+
+.icones-sociais li{
+	display: inline-block;
+}
+
+.icones-sociais a{
+	width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-indent: -99999px;
+}
+
+.github{
+	background-image: url(github.png);
+}
+
+.twitter {
+     background-image: url(twitter.png);
+}
+
+.linkedin {
+    background-image: url(linkedin.png);
+}
+
+footer{
+	background-color: #000;
+	color: #F2FFFC;
+	padding: 20px;
+	clear: both;
+}
+
+.fiat{
+	float: right;
+}
+
+.petrobras{
+	float: left;
+}
+
+img,aside{
+	width: 15%;
+	float: right;
+}
+
+aside{
+	
+	border: 10px solid #000;
+	-moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
